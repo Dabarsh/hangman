@@ -1,3 +1,3 @@
 # hangman
 cool hangman
-Um stole the images from some random indian guy on github and i hope you enjoy
+Um stole the images from some random guy on github and i hope you enjoy
